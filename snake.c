@@ -388,7 +388,7 @@ int main()
 	node* Tail=NULL;
 	food Food,Food2;
 	char c;
-	printf("do you want new match or old \nPress n for new \npress o for old");
+	printf("do you want new match or old \nPress n for new \npress o for old\n");
 	scanf("%c",&c);
 	switch (c)
 	{
